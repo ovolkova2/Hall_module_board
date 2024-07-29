@@ -191,23 +191,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YYEWRRMT
 
 [Document10]
-DocumentPath=source_of_current_hall_crossboard_1_1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RFTHUBID
-
-[Document11]
 DocumentPath=PCB_proj_module.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,24 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIQSSGXC
 
-[Document12]
-DocumentPath=one_planar_sensor_connector_hall_crossboard_1_1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WRSXCDQI
-
-[Document13]
+[Document11]
 DocumentPath=onePlanarUniversal.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XKOAKGMN
 
-[Document14]
+[Document12]
 DocumentPath=CurrentSrc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
