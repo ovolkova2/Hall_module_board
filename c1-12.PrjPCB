@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FMHBRUIC
 
 [Document12]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=PCB_proj_module_1_1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CNXVYQJJ
+DocumentUniqueId=RSOFTSWV
 
 [Configuration1]
 Name=Sources
