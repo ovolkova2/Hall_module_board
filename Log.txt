@@ -11,3 +11,5 @@
             подкорректировал логику генерации RadiatiationSignal (main_hall_crossboard_1_1)
 
 15-08-highresistance
+
+16.08.24-DC-Добавил 2 понижающих преобразователя на LMZ12003 на 5.8 и 3V 
