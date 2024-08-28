@@ -241,6 +241,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RSOFTSWV
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for c1-12\Design Rule Check - PCB_proj_module_1_1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
