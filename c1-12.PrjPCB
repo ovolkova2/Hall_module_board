@@ -241,6 +241,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLECQUCN
 
+[Document13]
+DocumentPath=PCB_proj_module_1_1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QPEGLHGV
+
 [ProjectVariant1]
 UniqueID=62CD302D-8C12-4734-9A5E-1A3FF57B57B5
 Description=sensor1kOm1mA
