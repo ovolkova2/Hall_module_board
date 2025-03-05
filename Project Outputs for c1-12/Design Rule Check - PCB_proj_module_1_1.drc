@@ -1,46 +1,25 @@
 Protel Design System Design Rule Check
 PCB File : D:\Your files\Volkovao\projects_ovolkova2\Hall_module_board\PCB_proj_module_1_1.PcbDoc
-Date     : 27.02.2025
-Time     : 16:44:14
+Date     : 05.03.2025
+Time     : 18:13:08
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
-   Violation between Clearance Constraint: (0.163mm < 0.2mm) Between Track (196.619mm,229.365mm)(198.151mm,227.833mm) on Top Layer And Track (198.047mm,228.526mm)(198.119mm,228.726mm) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 0.2mm) Between Track (196.619mm,229.365mm)(198.151mm,227.833mm) on Top Layer And Via (198.047mm,228.526mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.191mm < 0.2mm) Between Track (199.9mm,169.8mm)(199.9mm,228.6mm) on Signal Layer 2 And Via (200.691mm,225.646mm) from Top Layer to Bottom Layer 
-   Violation between Clearance Constraint: (0.1mm < 0.2mm) Between Track (199.9mm,169.8mm)(199.9mm,228.6mm) on Signal Layer 2 And Via (200.6mm,223.9mm) from Top Layer to Bottom Layer 
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Track (196.619mm,229.365mm)(198.151mm,227.833mm) on Top Layer And Via (198.047mm,228.526mm) from Top Layer to Bottom Layer Location : [X = 205.164mm][Y = 241.023mm]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net +5V PGA, AD7768, ref Between Pad U1-4(194.098mm,110.774mm) on Top Layer And Pad C1-1(195.6mm,110.8mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U21-86(158.934mm,125.278mm) on Top Layer [Unplated] And Pad C144-2(159.648mm,125.136mm) on Bottom Layer 
    Violation between Un-Routed Net Constraint: Net NetC23_10_2 Between Pad C23_10-2(240.2mm,63.6mm) on Top Layer [Unplated] And Track (250mm,45.4mm)(250mm,55.95mm) on Signal Layer 2 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U4-82(154.4mm,163.675mm) on Top Layer And Pad C28-1(156.05mm,163.6mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C42-1(166.15mm,175.1mm) on Bottom Layer And Pad U4-125(167.325mm,175.6mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U4-114(167.325mm,170.1mm) on Top Layer And Pad C43-1(167.675mm,169.125mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +5V PGA, AD7768, ref Between Pad C7-1(193.8mm,110.7mm) on Bottom Layer [Unplated] And Pad U1-4(194.098mm,110.774mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetCR2_1 Between Pad CR2-1(90.587mm,264.75mm) on Top Layer And Pad U4-145(167.325mm,185.6mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetCR2_3 Between Pad CR2-3(90.587mm,263.45mm) on Top Layer And Pad U4-146(167.325mm,186.1mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 5V8 Between Pad J22_10-1(248.97mm,78.02mm) on Multi-Layer And Via (252mm,183.4mm) from Top Layer to Bottom Layer 
    Violation between Un-Routed Net Constraint: Net NetJ29_2 Between Pad J29-2(100.737mm,248.211mm) on Multi-Layer And Track (174.925mm,187.775mm)(174.925mm,197mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetJ29_3 Between Pad J29-3(98.197mm,248.211mm) on Multi-Layer And Track (164.172mm,194.944mm)(164.4mm,194.716mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net NetJ30_4 Between Pad J30-4(95.869mm,272.578mm) on Top Layer [Unplated] And Pad U4-144(167.325mm,185.1mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net Rad_TURN_OF_SIG Between Via (63.6mm,61.22mm) from Top Layer to Bottom Layer And Pad J4-2(64.55mm,261.066mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net 5V8 Between Pad L1-2(66.25mm,253.966mm) on Top Layer [Unplated] And Track (121.801mm,244.256mm)(121.888mm,244.169mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +8V_A Between Via (271.2mm,35.6mm) from Top Layer to Bottom Layer And Pad L13-2(278.1mm,209mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net 12Vin Between Pad L19_4-2(104.288mm,70.02mm) on Top Layer [Unplated] And Pad L19_5-2(128.288mm,70.02mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net 3V_pwr Between Pad L21_4-2(104.288mm,67.226mm) on Top Layer [Unplated] And Pad L21_5-2(128.288mm,67.226mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net Vin+POE Between Via (173.425mm,256.126mm) from Top Layer to Bottom Layer And Pad Q5-2(180.813mm,257.312mm) on Top Layer [Unplated] 
-   Violation between Un-Routed Net Constraint: Net Vin-POE Between Pad Q6-2(219.875mm,254.275mm) on Top Layer [Unplated] And Via (224.3mm,251.851mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 5V8 Between Pad R98-1(248.869mm,205.986mm) on Top Layer And Pad R108-1(253.656mm,190.464mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetC146_2 Between Pad R112-2(89.161mm,272.36mm) on Top Layer And Track (89.689mm,272.282mm)(91.823mm,272.282mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net 5V8 Between Pad R90-1(267.731mm,211.648mm) on Top Layer And Pad R77-1(273.868mm,199.122mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net 5V8 Between Pad R85-1(240.133mm,226.348mm) on Top Layer And Track (243.789mm,207.548mm)(243.857mm,207.548mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-44(205.858mm,110.274mm) on Top Layer And Pad U1-46(205.858mm,111.274mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-58(199.228mm,114.404mm) on Top Layer And Pad U1-56(200.228mm,114.404mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net 12Vin Between Track (282.106mm,198.004mm)(282.106mm,200.019mm) on Top Layer And Pad U17-6(282.943mm,227.842mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U21-12(153.434mm,136.678mm) on Top Layer [Unplated] And Pad U21-6(156.434mm,136.678mm) on Top Layer [Unplated] 
    Violation between Un-Routed Net Constraint: Net 3V3 SDRAM Between Pad U21-3(157.934mm,136.678mm) on Top Layer [Unplated] And Track (158.911mm,135.851mm)(158.911mm,136.655mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U21-46(138.934mm,125.278mm) on Top Layer [Unplated] And Pad U21-52(141.934mm,125.278mm) on Top Layer [Unplated] 
@@ -51,20 +30,13 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net ADA4254_PGIO3 Between Via (143.5mm,47.3mm) from Top Layer to Bottom Layer And Pad U4-163(162.4mm,193.025mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net ADA4254_PGIO4 Between Pad U4-8(137.975mm,187.6mm) on Top Layer And Via (144mm,46.3mm) from Top Layer to Bottom Layer 
    Violation between Un-Routed Net Constraint: Net 3V3 Digital AD7768, PGA Between Pad Y2-4(127.235mm,189.55mm) on Top Layer And Via (215.1mm,190.5mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net ADA4254_CS Between Track (130mm,105.058mm)(130mm,172.8mm) on Signal Layer 2 And Via (146.5mm,41.4mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net VinP_planar3 Between Track (151.8mm,108.1mm)(182.469mm,108.1mm) on Top Layer And Track (182.469mm,108.3mm)(191.917mm,108.3mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net +5V PGA, AD7768, ref Between Track (198.222mm,114.41mm)(198.222mm,115.678mm) on Top Layer And Via (198.4mm,110.774mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net +5V PGA, AD7768, ref Between Via (198.7mm,116.1mm) from Top Layer to Bottom Layer And Track (201.728mm,114.404mm)(201.728mm,116.572mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NRST Between Via (202.8mm,233.3mm) from Top Layer to Bottom Layer And Track (204.711mm,202.888mm)(204.761mm,202.938mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 12Vin Between Track (284.724mm,188.86mm)(284.724mm,193.078mm) on Top Layer And Track (305.802mm,188.86mm)(305.802mm,193.078mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net 12Vin Between Track (297.68mm,81.02mm)(298.27mm,80.43mm) on Top Layer And Track (305.802mm,188.86mm)(305.802mm,193.078mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net -8V_A Between Track (304.8mm,208.1mm)(304.8mm,209.5mm) on Top Layer And Via (324.4mm,34.825mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Digital MCU Between Via (107.7mm,257.2mm) from Top Layer to Bottom Layer And Via (115.8mm,189.95mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net SCLK Between Via (146.9mm,39.7mm) from Top Layer to Bottom Layer And Via (184.7mm,101.9mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net 5V8 Between Track (121.801mm,244.256mm)(121.888mm,244.169mm) on Top Layer And Track (208.608mm,205.018mm)(208.7mm,204.926mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 5V8 Between Via (67.8mm,253.966mm) from Top Layer to Bottom Layer And Via (121.801mm,245.3mm) from Top Layer to Bottom Layer 
    Violation between Un-Routed Net Constraint: Net MISO Between Via (147mm,34.1mm) from Top Layer to Bottom Layer And Via (182.2mm,96.4mm) from Top Layer to Bottom Layer 
    Violation between Un-Routed Net Constraint: Net MOSI Between Via (183.1mm,99.1mm) from Top Layer to Bottom Layer And Via (195mm,37.9mm) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net 3V3 Digital AD7768, PGA Between Via (193.1mm,43.9mm) from Top Layer to Bottom Layer And Via (196.4mm,99.4mm) from Top Layer to Bottom Layer 
-Rule Violations :49
+   Violation between Un-Routed Net Constraint: Net SCLK Between Via (184.7mm,101.9mm) from Top Layer to Bottom Layer And Via (194.9mm,39.7mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net 5V8 Between Via (248.551mm,205mm) from Top Layer to Bottom Layer And Via (252.5mm,190mm) from Top Layer to Bottom Layer 
+Rule Violations :26
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -91,26 +63,18 @@ Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (104.97mm,81.02mm)(106.274mm,82.324mm) on Bottom Layer 
-   Violation between Net Antennae: Track (104.97mm,84.02mm)(106.27mm,85.32mm) on Bottom Layer 
-   Violation between Net Antennae: Track (105.68mm,78.02mm)(107.18mm,79.52mm) on Bottom Layer 
    Violation between Net Antennae: Track (111.1mm,165.625mm)(136.35mm,165.625mm) on Bottom Layer 
    Violation between Net Antennae: Track (124.2mm,237mm)(159.443mm,237mm) on Bottom Layer 
    Violation between Net Antennae: Track (125.5mm,238.4mm)(158.4mm,238.4mm) on Bottom Layer 
-   Violation between Net Antennae: Track (130mm,105.058mm)(130mm,172.8mm) on Signal Layer 2 
    Violation between Net Antennae: Track (146.678mm,123.986mm)(146.934mm,124.241mm) on Top Layer 
    Violation between Net Antennae: Track (164.172mm,194.944mm)(164.4mm,194.716mm) on Top Layer 
    Violation between Net Antennae: Track (174.925mm,187.775mm)(174.925mm,197mm) on Top Layer 
-   Violation between Net Antennae: Track (184.7mm,101.9mm)(185.15mm,101.45mm) on Signal Layer 2 
    Violation between Net Antennae: Track (194.849mm,225.646mm)(194.849mm,226.632mm) on Bottom Layer 
    Violation between Net Antennae: Track (250mm,45.4mm)(250mm,55.95mm) on Signal Layer 2 
-   Violation between Net Antennae: Track (304.8mm,208.1mm)(304.8mm,209.5mm) on Top Layer 
-   Violation between Net Antennae: Via (204.711mm,202.888mm) from Top Layer to Bottom Layer 
-Rule Violations :15
-
-Processing Rule : Room U_power_hall_crossboard_1_1 (Bounding Region = (230.72mm, 176.3mm, 321.32mm, 292.7mm) (InComponentClass('U_power_hall_crossboard_1_1'))
-   Violation between Room Definition: Between Room U_power_hall_crossboard_1_1 (Bounding Region = (230.72mm, 176.3mm, 321.32mm, 292.7mm) (InComponentClass('U_power_hall_crossboard_1_1')) And SIP Component J19-15EDGRC-3.5-04P-14 (308mm,262.55mm) on Top Layer 
-Rule Violations :1
+   Violation between Net Antennae: Via (121.801mm,245.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (252.5mm,190mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (67.8mm,253.966mm) from Top Layer to Bottom Layer 
+Rule Violations :11
 
 Processing Rule : Room AD7768 (Bounding Region = (178.72mm, 100.2mm, 228.518mm, 140.9mm) (InComponentClass('AD7768'))
 Rule Violations :0
@@ -118,49 +82,28 @@ Rule Violations :0
 Processing Rule : Room SDRAM (Bounding Region = (139.983mm, 132.517mm, 176.33mm, 155.25mm) (InComponentClass('SDRAM'))
 Rule Violations :0
 
-Processing Rule : Room U_AD7768_inputs_hall_crossboard_1_1 (Bounding Region = (194.52mm, 110.8mm, 217.72mm, 133mm) (InComponentClass('U_AD7768_inputs_hall_crossboard_1_1'))
+Processing Rule : Room CHA (Bounding Region = (20.32mm, 0mm, 68.32mm, 66mm) (InComponentClass('CHA'))
 Rule Violations :0
 
 Processing Rule : Room CHD (Bounding Region = (164.32mm, 0mm, 212.32mm, 66mm) (InComponentClass('CHD'))
 Rule Violations :0
 
-Processing Rule : Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1'))
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component J2-15EDGRC-3.5-3P (43.65mm,276.966mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M10-M3 (10mm,125mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M11-M3 (255mm,7mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M1-M3 (10mm,273mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M2-M3 (170mm,273mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M3-M3 (155mm,7mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M4-M3 (10mm,7mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M5-M3 (403mm,7mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M6-M3 (125mm,125mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M7-M3 (270mm,125mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M8-M3 (403mm,125mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And Small Component M9-M3 (305mm,273mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R127-1K SMD0603 (250.5mm,5.4mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R54-1K SMD0603 (118mm,125.2mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R82-1K SMD0603 (10mm,265.2mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R83-1K SMD0603 (277.4mm,125mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R84-1K SMD0603 (176.6mm,272.2mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R86-1K SMD0603 (403mm,116.8mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R87-1K SMD0603 (159.9mm,6.2mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R88-1K SMD0603 (298.7mm,273.1mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R89-1K SMD0603 (10mm,15.2mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R91-1K SMD0603 (403mm,14.4mm) on Top Layer 
-   Violation between Room Definition: Between Room main_hall_crossboard_1_1 (Bounding Region = (41.12mm, 262.241mm, 81.545mm, 292.7mm) (InComponentClass('main_hall_crossboard_1_1')) And SMT Small Component R92-1K SMD0603 (16.7mm,125mm) on Top Layer 
-Rule Violations :23
+Processing Rule : Room U_AD7768_inputs_hall_crossboard_1_1 (Bounding Region = (194.52mm, 110.8mm, 217.72mm, 133mm) (InComponentClass('U_AD7768_inputs_hall_crossboard_1_1'))
+Rule Violations :0
 
-Processing Rule : Room POE (Bounding Region = (117.52mm, 225.9mm, 231.02mm, 292.7mm) (InComponentClass('POE'))
-   Violation between Room Definition: Between Component J16-Family (127.395mm,272.204mm) on Top Layer And Room POE (Bounding Region = (117.52mm, 225.9mm, 231.02mm, 292.7mm) (InComponentClass('POE')) 
-   Violation between Room Definition: Between Component J17-Family (193.615mm,272.514mm) on Top Layer And Room POE (Bounding Region = (117.52mm, 225.9mm, 231.02mm, 292.7mm) (InComponentClass('POE')) 
-   Violation between Room Definition: Between Room POE (Bounding Region = (117.52mm, 225.9mm, 231.02mm, 292.7mm) (InComponentClass('POE')) And SIP Component J28-׀אחתול 1734035-1 (153mm,272mm) on Top Layer 
-Rule Violations :3
+Processing Rule : Room POE (Bounding Region = (117.52mm, 225.9mm, 231.02mm, 304mm) (InComponentClass('POE'))
+Rule Violations :0
 
-Processing Rule : Room ST-link (Bounding Region = (95.195mm, 257.2mm, 116.22mm, 292.7mm) (InComponentClass('ST-LINK'))
-   Violation between Room Definition: Between Room ST-link (Bounding Region = (95.195mm, 257.2mm, 116.22mm, 292.7mm) (InComponentClass('ST-LINK')) And SIP Component J30-USB_mini (96.669mm,272.578mm) on Top Layer 
-Rule Violations :1
+Processing Rule : Room ST-link (Bounding Region = (95.195mm, 257.2mm, 116.22mm, 298.1mm) (InComponentClass('ST-LINK'))
+Rule Violations :0
 
 Processing Rule : Room MCU (Bounding Region = (98.888mm, 162.989mm, 228.82mm, 224.975mm) (InComponentClass('MCU'))
+Rule Violations :0
+
+Processing Rule : Room U_power_hall_crossboard_1_1 (Bounding Region = (230.72mm, 176.3mm, 324.52mm, 292.7mm) (InComponentClass('U_power_hall_crossboard_1_1'))
+Rule Violations :0
+
+Processing Rule : Room CHH_CurrSrcP (Bounding Region = (380.32mm, 66mm, 404.32mm, 99.02mm) (InComponentClass('CHH_CurrSrcP'))
 Rule Violations :0
 
 Processing Rule : Room CHH_CurrSrcO (Bounding Region = (356.32mm, 66mm, 380.32mm, 99.02mm) (InComponentClass('CHH_CurrSrcO'))
@@ -169,7 +112,7 @@ Rule Violations :0
 Processing Rule : Room CHH (Bounding Region = (356.32mm, 0mm, 404.32mm, 66mm) (InComponentClass('CHH'))
 Rule Violations :0
 
-Processing Rule : Room CHG_CurrSrcN (Bounding Region = (332.32mm, 66mm, 356.32mm, 99.02mm) (InComponentClass('CHG_CurrSrcN'))
+Processing Rule : Room CHG_CurrSrcM (Bounding Region = (308.32mm, 66mm, 332.32mm, 99.02mm) (InComponentClass('CHG_CurrSrcM'))
 Rule Violations :0
 
 Processing Rule : Room CHF_CurrSrcL (Bounding Region = (284.32mm, 66mm, 308.32mm, 99.02mm) (InComponentClass('CHF_CurrSrcL'))
@@ -178,7 +121,7 @@ Rule Violations :0
 Processing Rule : Room CHG (Bounding Region = (308.32mm, 0mm, 356.32mm, 66mm) (InComponentClass('CHG'))
 Rule Violations :0
 
-Processing Rule : Room CHH_CurrSrcP (Bounding Region = (380.32mm, 66mm, 404.32mm, 99.02mm) (InComponentClass('CHH_CurrSrcP'))
+Processing Rule : Room CHE_CurrSrcJ (Bounding Region = (236.32mm, 66mm, 260.32mm, 99.02mm) (InComponentClass('CHE_CurrSrcJ'))
 Rule Violations :0
 
 Processing Rule : Room CHE_CurrSrcI (Bounding Region = (212.32mm, 66mm, 236.32mm, 99.02mm) (InComponentClass('CHE_CurrSrcI'))
@@ -187,7 +130,7 @@ Rule Violations :0
 Processing Rule : Room CHE (Bounding Region = (212.32mm, 0mm, 260.32mm, 66mm) (InComponentClass('CHE'))
 Rule Violations :0
 
-Processing Rule : Room CHD_CurrSrcH (Bounding Region = (188.32mm, 66mm, 212.32mm, 99.02mm) (InComponentClass('CHD_CurrSrcH'))
+Processing Rule : Room CHG_CurrSrcN (Bounding Region = (332.32mm, 66mm, 356.32mm, 99.02mm) (InComponentClass('CHG_CurrSrcN'))
 Rule Violations :0
 
 Processing Rule : Room CHF_CurrSrcK (Bounding Region = (260.32mm, 66mm, 284.32mm, 99.02mm) (InComponentClass('CHF_CurrSrcK'))
@@ -196,10 +139,13 @@ Rule Violations :0
 Processing Rule : Room CHF (Bounding Region = (260.32mm, 0mm, 308.32mm, 66mm) (InComponentClass('CHF'))
 Rule Violations :0
 
-Processing Rule : Room CHE_CurrSrcJ (Bounding Region = (236.32mm, 66mm, 260.32mm, 99.02mm) (InComponentClass('CHE_CurrSrcJ'))
+Processing Rule : Room CHA_CurrSrcB (Bounding Region = (44.32mm, 66mm, 68.32mm, 99.02mm) (InComponentClass('CHA_CurrSrcB'))
 Rule Violations :0
 
-Processing Rule : Room CHG_CurrSrcM (Bounding Region = (308.32mm, 66mm, 332.32mm, 99.02mm) (InComponentClass('CHG_CurrSrcM'))
+Processing Rule : Room CHA_CurrSrcA (Bounding Region = (20.32mm, 66mm, 44.32mm, 99.02mm) (InComponentClass('CHA_CurrSrcA'))
+Rule Violations :0
+
+Processing Rule : Room CHB (Bounding Region = (68.32mm, 0mm, 116.32mm, 66mm) (InComponentClass('CHB'))
 Rule Violations :0
 
 Processing Rule : Room CHB_CurrSrcC (Bounding Region = (68.32mm, 66mm, 92.32mm, 99.02mm) (InComponentClass('CHB_CurrSrcC'))
@@ -208,25 +154,16 @@ Rule Violations :0
 Processing Rule : Room CHB_CurrSrcD (Bounding Region = (92.32mm, 66mm, 116.32mm, 99.02mm) (InComponentClass('CHB_CurrSrcD'))
 Rule Violations :0
 
-Processing Rule : Room CHC (Bounding Region = (116.32mm, 0mm, 164.32mm, 66mm) (InComponentClass('CHC'))
+Processing Rule : Room CHD_CurrSrcG (Bounding Region = (164.32mm, 66mm, 188.32mm, 99.02mm) (InComponentClass('CHD_CurrSrcG'))
 Rule Violations :0
 
-Processing Rule : Room CHA_CurrSrcA (Bounding Region = (20.32mm, 66mm, 44.32mm, 99.02mm) (InComponentClass('CHA_CurrSrcA'))
-Rule Violations :0
-
-Processing Rule : Room CHA_CurrSrcB (Bounding Region = (44.32mm, 66mm, 68.32mm, 99.02mm) (InComponentClass('CHA_CurrSrcB'))
-Rule Violations :0
-
-Processing Rule : Room CHB (Bounding Region = (68.32mm, 0mm, 116.32mm, 66mm) (InComponentClass('CHB'))
-Rule Violations :0
-
-Processing Rule : Room CHA (Bounding Region = (20.32mm, 0mm, 68.32mm, 66mm) (InComponentClass('CHA'))
+Processing Rule : Room CHD_CurrSrcH (Bounding Region = (188.32mm, 66mm, 212.32mm, 99.02mm) (InComponentClass('CHD_CurrSrcH'))
 Rule Violations :0
 
 Processing Rule : Room CHC_CurrSrcF (Bounding Region = (140.32mm, 66mm, 164.32mm, 99.02mm) (InComponentClass('CHC_CurrSrcF'))
 Rule Violations :0
 
-Processing Rule : Room CHD_CurrSrcG (Bounding Region = (164.32mm, 66mm, 188.32mm, 99.02mm) (InComponentClass('CHD_CurrSrcG'))
+Processing Rule : Room CHC (Bounding Region = (116.32mm, 0mm, 164.32mm, 66mm) (InComponentClass('CHC'))
 Rule Violations :0
 
 Processing Rule : Room CHC_CurrSrcE (Bounding Region = (116.32mm, 66mm, 140.32mm, 99.02mm) (InComponentClass('CHC_CurrSrcE'))
@@ -236,6 +173,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 97
+Violations Detected : 37
 Waived Violations : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:04
