@@ -1,9 +1,10 @@
 Output: Bill of Materials
 Type  : BOM
 From  : Variant [[No Variations]] of Project [c1-12.PrjPCB]
+   Generated File[Bill of Materials-c1-12.xls]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:39:53 On 15.01.2025
+Finished Output Generation At 15:31:40 On 06.03.2025
