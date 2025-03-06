@@ -208,7 +208,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FMHBRUIC
 
 [Document11]
-DocumentPath=PCB_proj_module_1_1.PcbDoc
+DocumentPath=Hall_unit_board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -664,86 +664,130 @@ DocumentPath=Project Outputs for c1-12\Design Rule Check - PCB_proj_module_1_1.h
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for c1-12\NC Drill\PCB_proj_module_1_1.DRR
+DocumentPath=Project Outputs for c1-12\NC Drill\Hall_unit_board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_proj_module_1_1.DRR
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.EXTREP
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_proj_module_1_1.EXTREP
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.G1
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.G2
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GBL
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GBO
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GBS
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GM3
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GTL
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GTO
+DocumentPath=Project Outputs for c1-12\NC Drill\Hall_unit_board.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GTS
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for c1-12\NC Drill\PCB_proj_module_1_1.LDP
+DocumentPath=Project Outputs for c1-12\Gerber\Hall_unit_board.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_proj_module_1_1.LDP
+DocumentPath=Project Outputs for c1-12\NC Drill\Hall_unit_board.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.REP
+DocumentPath=Project Outputs for c1-12\NC Drill\PCB_proj_module_1_1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_proj_module_1_1.REP
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_proj_module_1_1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.RUL
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB_proj_module_1_1.RUL
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_proj_module_1_1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for c1-12\NC Drill\PCB_proj_module_1_1.TXT
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.G1
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.G2
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for c1-12\NC Drill\PCB_proj_module_1_1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for c1-12\Gerber\PCB_proj_module_1_1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB_proj_module_1_1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for c1-12\NC Drill\PCB_proj_module_1_1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=Project Outputs for Free Documents\NC Drill\PCB_proj_module_1_1.TXT
 DItemRevisionGUID=
 
