@@ -52,7 +52,7 @@ Configuration1_Item2=rClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version
 OutputType2=NC Drill
 OutputName2=NC Drill Files
 OutputCategory2=Fabrication
-OutputDocumentPath2=PCB_proj_module_1_1.PcbDoc
+OutputDocumentPath2=Hall_unit_board.PcbDoc
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=0
@@ -65,7 +65,7 @@ Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType3=Gerber
 OutputName3=Gerber Files
 OutputCategory3=Fabrication
-OutputDocumentPath3=PCB_proj_module_1_1.PcbDoc
+OutputDocumentPath3=Hall_unit_board.PcbDoc
 OutputVariantName3=
 OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0

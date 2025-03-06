@@ -1,10 +1,21 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Variant [[No Variations]] of Project [c1-12.PrjPCB]
-   Generated File[Bill of Materials-c1-12.xls]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Hall_unit_board.PcbDoc]
+   Generated File[Hall_unit_board.GTO]
+   Generated File[Hall_unit_board.GTS]
+   Generated File[Hall_unit_board.GTL]
+   Generated File[Hall_unit_board.G1]
+   Generated File[Hall_unit_board.G2]
+   Generated File[Hall_unit_board.GBL]
+   Generated File[Hall_unit_board.GBS]
+   Generated File[Hall_unit_board.GBO]
+   Generated File[Hall_unit_board.GM3]
+   Generated File[Hall_unit_board.RUL]
+   Generated File[Hall_unit_board.EXTREP]
+   Generated File[Hall_unit_board.REP]
 
 
-Files Generated   : 1
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 15:31:40 On 06.03.2025
+Finished Output Generation At 15:49:53 On 06.03.2025
