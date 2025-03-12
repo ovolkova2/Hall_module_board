@@ -1,0 +1,141 @@
+Protel Design System Design Rule Check
+PCB File : D:\Your files\Volkovao\projects_ovolkova2\Hall_module_board\Hall_unit_board.PcbDoc
+Date     : 12.03.2025
+Time     : 18:02:56
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=2mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=100mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.013mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room AD7768 (Bounding Region = (178.72mm, 100.2mm, 228.518mm, 140.9mm) (InComponentClass('AD7768'))
+Rule Violations :0
+
+Processing Rule : Room ST-link (Bounding Region = (95.195mm, 257.2mm, 116.22mm, 298.1mm) (InComponentClass('ST-LINK'))
+Rule Violations :0
+
+Processing Rule : Room U_power_hall_crossboard_1_1 (Bounding Region = (230.72mm, 176.3mm, 324.52mm, 292.7mm) (InComponentClass('U_power_hall_crossboard_1_1'))
+Rule Violations :0
+
+Processing Rule : Room CHH_CurrSrcO (Bounding Region = (356.32mm, 66mm, 380.32mm, 99.02mm) (InComponentClass('CHH_CurrSrcO'))
+Rule Violations :0
+
+Processing Rule : Room CHH_CurrSrcP (Bounding Region = (380.32mm, 66mm, 404.32mm, 99.02mm) (InComponentClass('CHH_CurrSrcP'))
+Rule Violations :0
+
+Processing Rule : Room MCU (Bounding Region = (98.888mm, 162.989mm, 228.82mm, 224.975mm) (InComponentClass('MCU'))
+Rule Violations :0
+
+Processing Rule : Room POE (Bounding Region = (117.52mm, 225.9mm, 231.02mm, 304mm) (InComponentClass('POE'))
+Rule Violations :0
+
+Processing Rule : Room SDRAM (Bounding Region = (139.983mm, 132.517mm, 176.33mm, 155.25mm) (InComponentClass('SDRAM'))
+Rule Violations :0
+
+Processing Rule : Room CHA (Bounding Region = (20.32mm, 0mm, 68.32mm, 66mm) (InComponentClass('CHA'))
+Rule Violations :0
+
+Processing Rule : Room CHF (Bounding Region = (260.32mm, 0mm, 308.32mm, 66mm) (InComponentClass('CHF'))
+Rule Violations :0
+
+Processing Rule : Room CHD (Bounding Region = (164.32mm, 0mm, 212.32mm, 66mm) (InComponentClass('CHD'))
+Rule Violations :0
+
+Processing Rule : Room U_AD7768_inputs_hall_crossboard_1_1 (Bounding Region = (194.52mm, 110.8mm, 217.72mm, 133mm) (InComponentClass('U_AD7768_inputs_hall_crossboard_1_1'))
+Rule Violations :0
+
+Processing Rule : Room CHD_CurrSrcH (Bounding Region = (188.32mm, 66mm, 212.32mm, 99.02mm) (InComponentClass('CHD_CurrSrcH'))
+Rule Violations :0
+
+Processing Rule : Room CHE (Bounding Region = (212.32mm, 0mm, 260.32mm, 66mm) (InComponentClass('CHE'))
+Rule Violations :0
+
+Processing Rule : Room CHD_CurrSrcG (Bounding Region = (164.32mm, 66mm, 188.32mm, 99.02mm) (InComponentClass('CHD_CurrSrcG'))
+Rule Violations :0
+
+Processing Rule : Room CHC_CurrSrcF (Bounding Region = (140.32mm, 66mm, 164.32mm, 99.02mm) (InComponentClass('CHC_CurrSrcF'))
+Rule Violations :0
+
+Processing Rule : Room CHH (Bounding Region = (356.32mm, 0mm, 404.32mm, 66mm) (InComponentClass('CHH'))
+Rule Violations :0
+
+Processing Rule : Room CHF_CurrSrcL (Bounding Region = (284.32mm, 66mm, 308.32mm, 99.02mm) (InComponentClass('CHF_CurrSrcL'))
+Rule Violations :0
+
+Processing Rule : Room CHG (Bounding Region = (308.32mm, 0mm, 356.32mm, 66mm) (InComponentClass('CHG'))
+Rule Violations :0
+
+Processing Rule : Room CHG_CurrSrcM (Bounding Region = (308.32mm, 66mm, 332.32mm, 99.02mm) (InComponentClass('CHG_CurrSrcM'))
+Rule Violations :0
+
+Processing Rule : Room CHE_CurrSrcI (Bounding Region = (212.32mm, 66mm, 236.32mm, 99.02mm) (InComponentClass('CHE_CurrSrcI'))
+Rule Violations :0
+
+Processing Rule : Room CHE_CurrSrcJ (Bounding Region = (236.32mm, 66mm, 260.32mm, 99.02mm) (InComponentClass('CHE_CurrSrcJ'))
+Rule Violations :0
+
+Processing Rule : Room CHC_CurrSrcE (Bounding Region = (116.32mm, 66mm, 140.32mm, 99.02mm) (InComponentClass('CHC_CurrSrcE'))
+Rule Violations :0
+
+Processing Rule : Room CHF_CurrSrcK (Bounding Region = (260.32mm, 66mm, 284.32mm, 99.02mm) (InComponentClass('CHF_CurrSrcK'))
+Rule Violations :0
+
+Processing Rule : Room CHA_CurrSrcB (Bounding Region = (44.32mm, 66mm, 68.32mm, 99.02mm) (InComponentClass('CHA_CurrSrcB'))
+Rule Violations :0
+
+Processing Rule : Room CHG_CurrSrcN (Bounding Region = (332.32mm, 66mm, 356.32mm, 99.02mm) (InComponentClass('CHG_CurrSrcN'))
+Rule Violations :0
+
+Processing Rule : Room CHA_CurrSrcA (Bounding Region = (20.32mm, 66mm, 44.32mm, 99.02mm) (InComponentClass('CHA_CurrSrcA'))
+Rule Violations :0
+
+Processing Rule : Room CHB_CurrSrcD (Bounding Region = (92.32mm, 66mm, 116.32mm, 99.02mm) (InComponentClass('CHB_CurrSrcD'))
+Rule Violations :0
+
+Processing Rule : Room CHC (Bounding Region = (116.32mm, 0mm, 164.32mm, 66mm) (InComponentClass('CHC'))
+Rule Violations :0
+
+Processing Rule : Room CHB (Bounding Region = (68.32mm, 0mm, 116.32mm, 66mm) (InComponentClass('CHB'))
+Rule Violations :0
+
+Processing Rule : Room CHB_CurrSrcC (Bounding Region = (68.32mm, 66mm, 92.32mm, 99.02mm) (InComponentClass('CHB_CurrSrcC'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

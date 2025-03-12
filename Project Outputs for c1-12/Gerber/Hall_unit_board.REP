@@ -2,21 +2,6 @@
 FileName = Hall_unit_board.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : Hall_unit_board.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D19
-    D21
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : Hall_unit_board.GTL
 
@@ -32,19 +17,15 @@ Used DCodes :
     D15
     D16
     D18
-    D25
-    D44
-    D48
-    D52
-    D53
+    D27
+    D46
+    D50
     D54
     D55
+    D56
     D57
-    D58
-    D95
-    D96
-    D97
-    D98
+    D59
+    D60
     D99
     D100
     D101
@@ -112,131 +93,15 @@ Used DCodes :
     D163
     D164
     D165
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Hall_unit_board.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D26
-    D31
-    D32
-    D63
-    D66
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D166
-    D167
-*************************************************************
-
-*************************************************************
-Generating : Signal Layer 2
-      File : Hall_unit_board.G2
-
-    Adding Layer      : Signal Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D14
-    D15
-    D16
-    D18
-    D95
-    D139
-    D140
-    D141
-    D142
-    D145
-    D146
-    D147
-    D149
-    D151
-    D152
-    D155
-    D161
-    D163
-    D164
-    D165
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Hall_unit_board.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D14
-    D15
-    D16
-    D18
-    D95
-    D96
-    D97
-    D102
-    D103
-    D126
-    D129
-    D139
-    D140
-    D142
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
-    D153
-    D154
-    D155
-    D156
-    D157
-    D158
-    D159
-    D160
-    D161
-    D162
-    D163
-    D164
-    D165
     D166
     D167
     D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
 *************************************************************
 
 *************************************************************
@@ -251,6 +116,46 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : Hall_unit_board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D20
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Hall_unit_board.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : Hall_unit_board.GTS
 
@@ -262,7 +167,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D24
     D25
     D26
     D27
@@ -333,30 +237,10 @@ Used DCodes :
     D92
     D93
     D94
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Hall_unit_board.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
+    D95
+    D96
+    D97
+    D98
 *************************************************************
 
 *************************************************************
@@ -373,12 +257,141 @@ Used DCodes :
     D14
     D15
     D18
-    D95
-    D140
+    D99
+    D148
+    D167
+    D168
+    D169
+    D172
+    D173
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Hall_unit_board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D18
+    D99
+    D101
+    D102
+    D107
+    D108
+    D131
+    D134
+    D144
     D145
-    D147
+    D146
+    D148
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
     D160
     D161
+    D162
+    D163
     D164
+    D165
+    D166
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Hall_unit_board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D28
+    D33
+    D34
+    D65
+    D68
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D175
+    D176
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : Hall_unit_board.G2
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D16
+    D18
+    D99
+    D144
+    D146
+    D148
+    D149
+    D152
+    D156
+    D158
+    D159
+    D162
+    D168
+    D169
+    D171
+    D172
+    D173
+    D174
 *************************************************************
 
